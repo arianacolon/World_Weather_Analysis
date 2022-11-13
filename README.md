@@ -1,1 +1,2 @@
-# World_Weather_Analysis
+# World Weather Analysis
+For this analysis, I have retrieved weather data from different cities around the world and will create maps of them with the usage of APIs. This analysis helps me specifically highlight the temperature, weather description, longitude, and latitude of each city and the country it is in. People can then use this information to locate a city based on its temperature and weather conditions to find a hotel to stay in that specified city.
